@@ -2,3 +2,5 @@
 This is a project developed on the problem I have faced in day to day life. I will update the description as I grow this project.
 <br>
 This is the day 2 and i still finding the problem.--> Researching
+<br>
+This is the day 3 and i have shortlisted some topics: Real-Time Big Data Analytics for Smart Cities, Fake News / Deepfake Detection Using AI
