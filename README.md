@@ -6,3 +6,5 @@ This is the day 2 and i still finding the problem.--> Researching
 This is the day 3 and i have shortlisted some topics: Real-Time Big Data Analytics for Smart Cities, Fake News / Deepfake Detection Using AI
 <br>
 This is the 4th day and I am going with the topic: Data Analytics for smart cities.
+<br> 
+Day 5 --> I forgot
