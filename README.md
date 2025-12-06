@@ -8,3 +8,5 @@ This is the day 3 and i have shortlisted some topics: Real-Time Big Data Analyti
 This is the 4th day and I am going with the topic: Data Analytics for smart cities.
 <br> 
 Day 5 --> I forgot
+<br>
+Day 6--> Research 
