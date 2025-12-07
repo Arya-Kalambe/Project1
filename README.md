@@ -10,3 +10,5 @@ This is the 4th day and I am going with the topic: Data Analytics for smart citi
 Day 5 --> I forgot
 <br>
 Day 6--> Research 
+<br>
+DAY 7--> RESEARCH
