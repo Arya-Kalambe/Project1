@@ -12,3 +12,5 @@ Day 5 --> I forgot
 Day 6--> Research 
 <br>
 DAY 7--> RESEARCH
+<br>
+DAY 8--> Found out how to writre research paper
