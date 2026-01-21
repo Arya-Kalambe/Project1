@@ -13,4 +13,9 @@ Day 6--> Research
 <br>
 DAY 7--> RESEARCH
 <br>
-DAY 8--> Found out how to writre research paper
+DAY 8--> Found out how to writre research paper.
+<br>
+<br>
+STARTING AGAIN
+<br>
+DAY 1- SEARCHING IDEA
