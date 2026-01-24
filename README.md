@@ -21,3 +21,5 @@ STARTING AGAIN
 DAY 1- SEARCHING IDEA
 <br>
 DAY 2- FOUND THE IDEA OPEN THE CAMERA SAVE IMAGE AND CONVERT IMAGE INTO NOTES.
+<br>
+DAY 3- Searching the overall resources which i can use to make this more easier for me to build.
