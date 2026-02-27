@@ -18,6 +18,7 @@ DAY 8--> Found out how to writre research paper.
 <br>
 STARTING AGAIN
 <br>
+Day 1- restarting again
 DAY 1- SEARCHING IDEA
 <br>
 DAY 2- FOUND THE IDEA OPEN THE CAMERA SAVE IMAGE AND CONVERT IMAGE INTO NOTES.
