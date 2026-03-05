@@ -28,3 +28,5 @@ DAY 3- Searching the overall resources which i can use to make this more easier 
 Day 4- Searching the resources
 <br>
 Day 5 - I have decided to start from basics so the First project which i will do in TO DO list plus day tracker. So it will analyse the data store it and also predict what changes should be made in the day to improve the efficiency and effectiveness of the day.
+<br>
+Day 6- Created the Frontend using v0 by vercel, not happy with the result :(
