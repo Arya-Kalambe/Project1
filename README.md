@@ -32,3 +32,5 @@ Day 5 - I have decided to start from basics so the First project which i will do
 Day 6- Created the Frontend using v0 by vercel, not happy with the result :(
 <br>
 Day 7- Exam prep
+<br>
+Day 1 - Again its day 1 and today i have to start again, its disappointing sometimes but thike. Consistency is what i need to focus now.
