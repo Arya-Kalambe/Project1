@@ -1,36 +1,4 @@
 # Project1
 This is a project developed on the problem I have faced in day to day life. I will update the description as I grow this project.
 <br>
-This is the day 2 and i still finding the problem.--> Researching
-<br>
-This is the day 3 and i have shortlisted some topics: Real-Time Big Data Analytics for Smart Cities, Fake News / Deepfake Detection Using AI
-<br>
-This is the 4th day and I am going with the topic: Data Analytics for smart cities.
-<br> 
-Day 5 --> I forgot
-<br>
-Day 6--> Research 
-<br>
-DAY 7--> RESEARCH
-<br>
-DAY 8--> Found out how to writre research paper.
-<br>
-<br>
-STARTING AGAIN
-<br>
-Day 1- restarting again :(
-DAY 1- SEARCHING IDEA
-<br>
-DAY 2- FOUND THE IDEA OPEN THE CAMERA SAVE IMAGE AND CONVERT IMAGE INTO NOTES.
-<br>
-DAY 3- Searching the overall resources which i can use to make this more easier for me to build.
-<br>
-Day 4- Searching the resources
-<br>
-Day 5 - I have decided to start from basics so the First project which i will do in TO DO list plus day tracker. So it will analyse the data store it and also predict what changes should be made in the day to improve the efficiency and effectiveness of the day.
-<br>
-Day 6- Created the Frontend using v0 by vercel, not happy with the result :(
-<br>
-Day 7- Exam prep
-<br>
-Day 1 - Again its day 1 and today i have to start again, its disappointing sometimes but thike. Consistency is what i need to focus now.
+Day 1: Idea: Creating a to do list project where the data given in the frontend will be stored in an excel sheet and then pie charts and graphs would be available on the frontend. The data would be created simultaneously and then according to the data it will predict what you should do to improve or upgrade your self. write personal goals and then help to complete it. It will show the the upscale and downfall inshort your anaylysis and it will motivate to work more harder.
