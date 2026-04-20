@@ -8,3 +8,5 @@ Day 2: Descriptive idea of 1st page: Dashboard: where i can see the timetable, t
 Day 3: I actually noted down what things i wanted to do in the project
 <br>
 Day 4: First important thing is how to manage time and to allot tasks according to your human capacity.
+<br>
+Day 5: Getting into the deatils writing a promot to chatgpt and asking either v0 or any other ai to generate a website for my reference. Generated using lovable.
