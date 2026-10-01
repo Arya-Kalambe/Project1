@@ -1,3 +1,5 @@
+# 🤟 A–Z Sign Language Detection
+
 A real-time **Sign Language Detection** project that recognizes **A–Z hand gestures** and converts them into corresponding alphabet characters.
 
 The system uses **computer vision, hand landmark detection, and machine learning** to identify hand gestures captured through a webcam. It is designed as a foundation for building more advanced sign-language systems capable of recognizing **words and complete sentences**.
