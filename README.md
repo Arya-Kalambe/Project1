@@ -1,12 +1,29 @@
-# Project1
-This is a project developed on the problem I have faced in day to day life. I will update the description as I grow this project.
-<br>
-Day 1: Idea: Creating a to do list project where the data given in the frontend will be stored in an excel sheet and then pie charts and graphs would be available on the frontend. The data would be created simultaneously and then according to the data it will predict what you should do to improve or upgrade your self. write personal goals and then help to complete it. It will show the the upscale and downfall inshort your anaylysis and it will motivate to work more harder.
-<br>
-Day 2: Descriptive idea of 1st page: Dashboard: where i can see the timetable, tasks of the week, task completed and pending, fitness records, Red green yellow for how the thing or tasks are going, it shows how are the statistics.
-<br>
-Day 3: I actually noted down what things i wanted to do in the project
-<br>
-Day 4: First important thing is how to manage time and to allot tasks according to your human capacity.
-<br>
-Day 5: Getting into the deatils writing a promot to chatgpt and asking either v0 or any other ai to generate a website for my reference. Generated using lovable.
+A real-time **Sign Language Detection** project that recognizes **A–Z hand gestures** and converts them into corresponding alphabet characters.
+
+The system uses **computer vision, hand landmark detection, and machine learning** to identify hand gestures captured through a webcam. It is designed as a foundation for building more advanced sign-language systems capable of recognizing **words and complete sentences**.
+
+## 🚀 Features
+
+* 🤟 Detects **A–Z sign language gestures**
+* 📷 Real-time webcam-based detection
+* 🖐️ Hand gesture/landmark-based feature extraction
+* 🧠 Machine learning-based gesture classification
+* 🔤 Converts detected gestures into alphabet characters
+* ⚡ Real-time prediction
+* 📊 Model training and evaluation pipeline
+* 🔮 Extendable to word and sentence-level sign language recognition
+
+## 🛠️ Technologies Used
+
+* Python
+* OpenCV
+* NumPy
+* Machine Learning
+* Hand Landmark / Gesture Detection
+* Scikit-learn
+
+## 🎯 Project Goal
+
+The main goal of this project is to develop an accessible computer-vision-based system that can understand sign language gestures and convert them into text, helping bridge communication gaps between sign-language users and non-signers.
+
+This A–Z alphabet detector serves as the **first stage toward a complete sign-language-to-text translation system**.
