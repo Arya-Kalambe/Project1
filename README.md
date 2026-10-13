@@ -33,3 +33,4 @@ This A–Z alphabet detector serves as the **first stage toward a complete sign-
 1800 alphabet dataset
 3600 word datasets
 
+Making its accuracy 97 and 100 percent
