@@ -26,7 +26,7 @@ The system uses **computer vision, hand landmark detection, and machine learning
 
 ## 🎯 Project Goal
 
-The main goal of this project is to develop an accessible computer-vision-based system that can understand sign language gestures and convert them into text, helping bridge communication gaps between sign-language users and non-signers.
+The main goal of this project is to develop an accessible computer-vision-based system that can understand sign language gestures and convert them into text, helping bridge communication gaps between sign-language users and non-signers. Communication would be easier and they can explain them selves better.
 
 This A–Z alphabet detector serves as the **first stage toward a complete sign-language-to-text translation system**.
 
