@@ -34,3 +34,6 @@ This A–Z alphabet detector serves as the **first stage toward a complete sign-
 3600 word datasets
 
 Making its accuracy 97 and 100 percent
+
+Easy to understand sign language 
+making it easy to understand and translate 
