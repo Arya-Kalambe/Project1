@@ -36,4 +36,5 @@ This A–Z alphabet detector serves as the **first stage toward a complete sign-
 Making its accuracy 97 and 100 percent
 
 Easy to understand sign language 
-making it easy to understand and translate 
+making it easy to understand and translate
+Easy to understand and translate it into text
