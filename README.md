@@ -1,4 +1,4 @@
-# 🤟 A–Z Sign Language Detection
+on# 🤟 A–Z Sign Language Detection
 
 A real-time **Sign Language Detection** project that recognizes **A–Z hand gestures** and converts them into corresponding alphabet characters.
 
@@ -37,4 +37,5 @@ Making its accuracy 97 and 100 percent
 
 Easy to understand sign language 
 making it easy to understand and translate
-Easy to understand and translate it into text
+Easy to understand and translate it into text.
+Everyone has the freedom to understand and speech whicj this project helps to provide it
